@@ -65,7 +65,11 @@ private static final String PASSWORD = "isipasswordkamu"; // ganti dengan passwo
 | TopScorersFrame | Swing window showing Top 5 scorers in JTable |
 
 ## Screenshots
-(Add screenshots here after running the program)
+![Login](screenshots/login-window.png)
+![Game](screenshots/game-window.png)
+![Top 5](screenshots/top-scorers-window.png)
+![Main Menu](screenshots/main-menu.png)
+![Statistics](screenshots/statistics-window.png)
 
 ## Video Link
 YouTube: (Isi link YouTube kamu)
