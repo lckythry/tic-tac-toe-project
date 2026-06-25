@@ -71,4 +71,4 @@ private static final String PASSWORD = "isipasswordkamu"; // ganti dengan passwo
 YouTube: (Isi link YouTube kamu)
 
 ## GitHub Link
-GitHub: (Isi link GitHub kamu)
+GitHub: https://github.com/lckythry/tic-tac-toe-project.git
