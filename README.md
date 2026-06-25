@@ -1,9 +1,9 @@
 # Simple Tic-Tac-Toe Game with Java Swing, Login, and Statistics
 
 ## Student Information
-- Name     : (Isi nama kamu)
-- Student ID: (Isi NIM kamu)
-- Class    : (Isi kelas kamu)
+- Name     : Lucky Thierry Maulana Irham Attalla
+- Student ID: 5026251150
+- Class    : A
 
 ## Project Description
 This project is a simple Tic-Tac-Toe game built using Java Swing GUI.
@@ -38,7 +38,7 @@ The player plays against the computer (random move AI).
 ### 2. Configure DatabaseManager
 Open `src/DatabaseManager.java` and change:
 ```java
-private static final String PASSWORD = "isipasswordkamu"; // ganti dengan password PostgreSQL kamu
+private static final String PASSWORD = "isipasswordkamu"; // ganti dengan password PostgreSQL Anda
 ```
 
 ### 3. Add JDBC Driver
