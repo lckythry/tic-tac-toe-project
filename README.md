@@ -72,7 +72,7 @@ private static final String PASSWORD = "isipasswordkamu"; // ganti dengan passwo
 ![Statistics](screenshot/statistics-window.png)
 
 ## Video Link
-YouTube: (Isi link YouTube kamu)
+YouTube: https://youtu.be/XJt0aMV3YOE
 
 ## GitHub Link
 GitHub: https://github.com/lckythry/tic-tac-toe-project.git
